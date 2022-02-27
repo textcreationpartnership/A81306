@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of your hmmble [sic] petitioner, Anne Dennis</title>
+            <author>Dennis, Anne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81306</idno>
+            <idno type="STC">Wing D1027A</idno>
+            <idno type="STC">ESTC R231387</idno>
+            <idno type="EEBO-CITATION">99899955</idno>
+            <idno type="PROQUEST">99899955</idno>
+            <idno type="VID">137006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2480:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of your hmmble [sic] petitioner, Anne Dennis</title>
+                  <author>Dennis, Anne.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Appeals to the Crown to pay the debt owed to her.</note>
+                  <note>Reproduction of original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  England --  Early works to 1800.</term>
+               <term>Debts, Public --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137006:1"/>
+            <head>The <hi>CASE</hi> of your Hmmble Petitioner, <hi>Anne Dennis.</hi>
+            </head>
+            <p>YEt as a free born Subject of <hi>England</hi> claim the Privilidge of being heard, and having my Petition preſented, and as the Daughter of a Mageſtrate humbly hope all in this Houſe being ſo Peculierly Choſen by, there<g ref="char:EOLhyphen"/>fore in behalf of the People will alſo have that Reſpect to (Children of the Mageſtracy who have a place in this Honorable Houſe, and not being Plac'd with the Commonalty in their Fathers life time) will alſo Mantain them in their Right and Privilige of Birth, therefore allow my juſt Complaint and anſwer me to my Content.</p>
+            <p>That my Father Alderman <hi>Thomas Dennis</hi> was Mayor of the City of <hi>Oxford</hi> in the year 1643, who with a Loyal and true heart ſerved his Majeſty King <hi>Charles</hi> the firſt in the Publick and alſo furniſhed with ſome Cloath<g ref="char:EOLhyphen"/>ing for his own Royal Perſon as Velvet Cloath, Silk, Gold &amp; ſilver lace, <hi>&amp;c</hi> and his Highneſs Prince <hi>Charles</hi> and Royall Duke of <hi>York</hi> all the time of their Reſidence in <hi>Oxford,</hi> who as Heir Preſumptive and King in the Throne in 86 when I Petition'd, Conſcience and Honer oblige paments of to prove which Debt appear an account ſtated by his Majeſtes order as by Reference on the Petition to the Lord Treaſurer appears who cauſed an Auditor to ſtate the ſame in <hi>March</hi> 46 who certifies, that there was then owing 1900 which mean uſe comes to 6000 (my Juſt due) that he was under sequeſtration by order of both Houſes of Parliament in 46 ſo that by charges &amp; loſſes ſuſtain by Crediting the Court he was utterly Ruind that your Petitioners Father in conſcience is not in<g ref="char:EOLhyphen"/>debted ſince the Year 1666, or ſuppoſing he were Honour and pity would have prefer'd my intereſt and beſtowd a favour upon me that have loſt a fortune of 10000 by the Court,</p>
+            <p>That the aboveſaid Premices diſabled my Father from making any other Proviſion for my Portion ſo livelyhood which acation my ſo lawfull Solicitiog at Court for hope a Fathers Eſtate will never be to old for a Child to mannage nor that a child ſhould be put of from what a Father is able to Leave, for not being in the Grand Seignors dominions who when the Baſhaw dyes takes all &amp; gives the Child what he thinks fit but in a Chriſtian Countrey ſo Civiliſed Court as ſhould be, tho far from, as I may ſay, whoſe Honour ſhould not return it as almesgivers but apear as Guardian to the Child ſo left by the Parent who hath ſerved the King, and with the Childs Portion.</p>
+            <p>Tho it is rather a Heatheniſh Cuſtom alſo then fitting an <hi>Engliſh</hi> Court that Petitions ſhall not be anſewerd if to none but acquaintance Kindred or ſervants, then where is the doing of Juſtice which ought to be indifferantly ad-Miniſtred to all, not regarding acquaintance elſe how ſhould Loyal Citizens or perſons remote be paid Debts that have no Intereſt with Lords, and if by any Accident or tedious Court waiting the perſons conſern'd are dead the hands of ſuch as receiv'd the money or wares and thoſe that ſtate Debts ſhould be ſufficent teſtimony, elſe why <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hands put to ſign any thing to atteſt the truth if of no Validity,</p>
+            <p>That your Petitioner Soliciting at Treaſury, in purſuance of her aboveſaid Portion, has been diſgrac'd this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laſt Years beyond all preſident, and ranked in diſgrace to the Magiſtracy as the meaneſt of Perſons, defam'd in words, and when I complained, all the Redreſs was to bid me fly from it, which I deſpiſe as an <hi>Innocent.</hi> and go home to my own Country, therefore I make my Application to the Honourable Houſe of Commons to conſt<g ref="char:EOLhyphen"/>ler my Grievances, and pay this Debt of the Crown to me.</p>
+            <p>For I have not been quietly permitted to prefent a Petition to King <hi>William,</hi> and when I have had no Redreſs, and often thruſt out by the Yeomen for a Mad-body, on the 17th of <hi>June</hi> laſt our of the Houſe on the Lords Day, that I was forced to give my Petition on the High-way in the Coach, nor ſuffer to attend: but contrary to
+<pb facs="tcp:137006:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 span">
+                  <desc>〈1 span duplicate〉</desc>
+               </gap> all common Civility or Morality, Honour from the Court, or Conſcience to me, cauſe their Door-keepers to af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ront me daily, and uſing ſuch Speeches that ſurely <hi>Sodom</hi> and <hi>Gomorrah</hi> would come ſhort of, and 6 times impri<g ref="char:EOLhyphen"/>ſoned, dragg'd through the two Courts in <hi>VVhite-Hall</hi> from the Treaſury, by <hi>Mr. John Taylor</hi>'s Order, the 30th of <hi>July</hi> 98 coming from the Chappel, but that reſpect I wil ſhow to Children of Mahiſtrates, if pulled in pieces, not to go to a Priſon appointed for Porters and Foot-men, if that be a place for a Magiſtrate's Daughter and civil Maiden, indebted to none, about her buſineſs, or coming from Church, let all vindicate or intail that diſgrace up<g ref="char:EOLhyphen"/>on their Poſterity, but I was provoked to ſwear, I would not eat till I had ſatisfaction, as had not in 2 Years only Bread, and ſince on the 30th of <hi>June</hi> laſt was halled from the Treaſury in the Name of the Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> alſo, as on the 30th of <hi>July,</hi> to my diſgrace, and ſo great hurt; but had they gone a little father I had ſounded, and to ſpit in my Face, endeavoured to break my Arms, tear my Head-cloths, fling me about to daſh my Head to the Wall is ſport, <hi>&amp;c.</hi> that I go in danger of my Life.</p>
+            <p>All upon the Account of a private Perſon, the aboveſaid Mr. <hi>Taylor,</hi> Clark and the Treaſury, but the Lords appearing a<g ref="char:EOLhyphen"/>gainſt me, in countenancing, ſo cauſing Affronts to ſpoil my Marriage, which true Honour and Piety would have promoted, conſidered my Father's Services, but I was denied the Freedom of an <hi>Iriſhwoman,</hi> Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſioner, whoſe pretenſions could not ſtand in competition with mine, nor would Conſcience put me off in that rude manoer without payment to my utter Ruine, and it is as lawful and proper for a Maiden to go a woing as to do any other buſineſs abroad that have neither Fathers, or Brothers to do it for them. And I have a priviledge which I muſt ſtand upon my Honour as a Maiden, which no Law, Divine or Humane allows infringment of, and which what could repair but that ſatisfaction I did, as had ſo much Reaſon to petition K. <hi>William</hi> concerning, as being his Servant that had ſo diſgraced me in the Houſe, to cauſe him to marry your Petitioner ſo ruined, who ſit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing on the Royal Seat of K. <hi>Charles</hi> the Firſt, the 2d. and K <hi>James,</hi> all 3 my Debters, but having the aboveſaid Uſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge at Court, therefore preſent my Caſe here, your ſelves alſo appointing, and keeping a day of remembrance for the Royal Martyr, which Civility you will contradict, not paying a piece of ſuch particular ſervice to him, or any Majeſty, the Uſe of which prin<g ref="char:EOLhyphen"/>cipal comes to 100 <hi>l per Anum</hi> therefore not to be put in a Liſt of diſgrace as uncertainty, Not are the Children of the Kingdom to be thruſt out and introduce Strange, Therefore as Gentlemen afford your help<g ref="char:punc">▪</g> and appoint ſome Member to re<g ref="char:EOLhyphen"/>ceive my Petition as one friendleſs though born in the Kingdom, whoſe Piety, if Citizens of Heaven will not deſert, but effectu<g ref="char:EOLhyphen"/>ally conſider the Grievances, and pay the Debt to me a Treaſury Martyr, Therefere your Humble Petitioner.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
